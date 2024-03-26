@@ -1,0 +1,38 @@
+.main {
+    display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+  margin: 0;
+  min-height: 88vh;
+  background-color: black;
+  color: #fa4141;
+  font-family: OCR A Std, monospace;
+}
+
+.main p {
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    text-align: center;
+    padding-bottom: 19rem;
+    margin: 0 22rem;
+    line-height: 1.5;
+    font-size: 1.15rem;
+}
+
+.main h1 {
+    padding-top: 6rem;
+    padding-bottom: 2rem;
+}
+.main Link {
+    cursor: pointer;
+    color: yellow !important;
+    display: inline-block; /* Display as block to allow vertical alignment */
+  vertical-align: middle;
+}
+
+.main Link:hover {
+    color: yellow;
+}

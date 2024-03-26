@@ -1,0 +1,19 @@
+{
+    "team" : "Williams Racing",
+    "base" : "Grove, United Kingdom",
+    "chief" : "James Vowles",
+    "tchief" : "Pat Fry",
+    "chassis" : "FW46",
+    "power" : "Mercedes",
+    "entry" : "1978",
+    "champions" : "9",
+    "logoimg" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/red%20bull.jpg",
+    "player1img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/albon.jpg.img.1920.medium.jpg/1708362042590.jpg",
+    "player2img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/sargeant.jpg.img.1920.medium.jpg/1708344644988.jpg",
+    "slug" : "Williams",
+    "player1" : "Alexander Albon",
+    "player2" : "Logan Sargeant",
+    "finish" : "1 (x114)",
+    "positions" : "128",
+    "laps" : "133"
+}

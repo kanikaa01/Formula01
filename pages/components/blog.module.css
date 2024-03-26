@@ -1,0 +1,52 @@
+.main {
+    padding: 1rem 10rem;
+    background-color: black;
+    color: #f93030;
+    min-height: 91vh;
+    font-family: OCR A Std, monospace;
+}
+.main h2 {
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.main p {
+    padding: 2rem 15rem;
+}
+.main hr {
+    color: #f93030;
+    background-color: #f93030;
+}
+.info {
+    display: flex;
+  justify-content: center;
+  align-items: end;
+}
+.logomain {
+    border-radius: 10%;
+    display: flex;
+  justify-content: flex-end;
+  border: 3px solid #fb0000;
+}
+.teamlogo {
+    display: flex;
+  justify-content: center;
+  
+}
+.logo {
+    margin: 0.5rem 1rem;
+    padding: 0.5rem;
+    margin-top: 2rem;
+    /* position: absolute; */
+    justify-content: space-between;
+    border-radius: 20px;
+    border: 1px solid #fa4141;
+    align-items: center;
+}
+.imageContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10rem;
+}

@@ -1,0 +1,19 @@
+{
+    "team": "Kick Sauber F1 Team",
+  "base": "Hinwil, Switzerland",
+  "chief": "Frédéric Vasseur",
+  "tchief": "Jan Monchaux",
+  "chassis": "C42",
+  "power": "Ferrari",
+  "entry": "1993",
+  "champions": "0",
+    "logoimg" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/red%20bull.jpg",
+    "player1img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/bottas.jpg.img.1920.medium.jpg/1708448661324.jpg",
+    "player2img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/zhou.jpg.img.1920.medium.jpg/1708448631655.jpg",
+    "slug" : "Kick",
+    "player1" : "Valtteri Bottas",
+    "player2" : "Zhou Guanyu",
+    "finish": "1 (x20)",
+  "positions": "37",
+  "laps": "312"
+}

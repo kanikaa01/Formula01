@@ -1,0 +1,48 @@
+.main {
+    padding: 1rem 10rem;
+    background-color: black;
+    color: #f93030;
+    min-height: 91vh;
+    font-family: OCR A Std, monospace;
+  }
+
+  .content {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  .main h1 {
+    margin: 4rem;
+  }
+  
+  .teamlogo {
+    text-align: center; /* Center the team logo */
+  }
+  
+  .logomain {
+    width: 150px; /* Set the width of the team logo */
+    height: 130px; /* Set the height of the team logo */
+    border-radius: 10%; /* Make the team logo circular */
+    border: 3px solid red;
+  }
+  
+  .imageContainer {
+    display: flex;
+    justify-content: flex-start; /* Distribute images evenly */
+    margin: 5rem; /* Add margin to separate images from text */
+  }
+  
+  .logo {
+    width: 300px; /* Set the width of the player images */
+    height: 315px; /* Set the height of the player images */
+    border-radius: 8px; /* Add border radius for rounded corners */
+    margin: 1rem;
+    border: 3px solid #f93030;
+  }
+  
+  .info {
+    margin: 7rem 5rem; /* Add margin to separate text from images */
+    display: flex;
+    justify-content: center;
+    line-height: 1.5;
+  }

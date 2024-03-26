@@ -1,0 +1,19 @@
+{
+    "team" : "Ferrari",
+    "base" : "Maranello, Italy",
+    "chief" : "Frédéric Vasseur",
+    "tchief" : "Enrico Cardile / Enrico Gualtieri",
+    "chassis" : "SF-24",
+    "power" : "Ferrari",
+    "entry" : "1950",
+    "champions" : "16",
+    "logoimg" : "https://media.formula1.com/content/dam/fom-website/teams/Ferrari/logo-ferrari-18%20.jpg",
+    "player1img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/leclerc.jpg.img.1920.medium.jpg/1708344558637.jpg",
+    "player2img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/sainz.jpg.img.1920.medium.jpg/1708344524647.jpg",
+    "slug" : "Ferrari",
+    "player1" : "Charles Leclerc",
+    "player2" : "Carlos Sainz",
+    "finish" : "1 (x245)",
+    "positions" : "249",
+    "laps" : "261"
+}

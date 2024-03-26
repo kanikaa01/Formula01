@@ -1,0 +1,19 @@
+{
+    "team" : "BWT Alpine F1 Team",
+    "base" : "Enstone, United Kingdom",
+    "chief" : "Bruno Famin",
+    "tchief" : "Joe Burnell / David Wheater / Ciaron Pilbeam",
+    "chassis" : "A524",
+    "power" : "Renault",
+    "entry" : "1986",
+    "champions" : "2",
+    "logoimg" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/red%20bull.jpg",
+    "player1img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/gasly.jpg.img.1920.medium.jpg/1708344393640.jpg",
+    "player2img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/ocon.jpg.img.1920.medium.jpg/1708344427828.jpg",
+    "slug" : "Alpine",
+    "player1" : "Pierre Gasly",
+    "player2" : "Esteban Ocon",
+    "finish" : "1 (x21)",
+    "positions" : "20",
+    "laps" : "15"
+}

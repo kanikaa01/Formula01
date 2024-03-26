@@ -1,0 +1,19 @@
+{
+    "team" : "Haas F1 Team",
+    "base" : "Kannapolis, United States",
+    "chief" : "Ayao Komatsu",
+    "tchief" : "Andrea De Zordo",
+    "chassis" : "VF-24",
+    "power" : "Ferrari",
+    "entry" : "2016",
+    "champions" : "N/A",
+    "logoimg" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/red%20bull.jpg",
+    "player1img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/hulkenberg.jpg.img.1920.medium.jpg/1708344329424.jpg",
+    "player2img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/magnussen.jpg.img.1920.medium.jpg/1708344301907.jpg",
+    "slug" : "Haas",
+    "player1" : "Nico Hulkenberg",
+    "player2" : "Kevin Magnussen",
+    "finish" : "4 (x1)",
+    "positions" : "1",
+    "laps" : "2"
+}

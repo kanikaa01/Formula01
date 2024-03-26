@@ -1,0 +1,19 @@
+{
+    "team" : "Aston Martin Aramco F1 Team",
+    "base" : "Silverstone, United Kingdom",
+    "chief" : "Mike Krack",
+    "tchief" : "Dan Fallows",
+    "chassis" : "AMR24",
+    "power" : "Mercedes",
+    "entry" : "2018",
+    "champions" : "N/A",
+    "logoimg" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/red%20bull.jpg",
+    "player1img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/alonso.jpg.img.1920.medium.jpg/1708344615576.jpg",
+    "player2img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/stroll.jpg.img.1920.medium.jpg/1708344367003.jpg",
+    "slug" : "AstonMartin",
+    "player1" : "Fernando Alonso",
+    "player2" : "Lance Stroll",
+    "finish" : "1 (x1)",
+    "positions" : "1",
+    "laps" : "1"
+}

@@ -1,0 +1,19 @@
+{
+    "team" : "RB Formula One Team",
+    "base" : "Faenza, Italy",
+    "chief" : "Laurent Mekies",
+    "tchief" : "Jody Egginton",
+    "chassis" : "VCARB 01",
+    "power" : "Honda RBPT",
+    "entry" : "1985",
+    "champions" : "N/A",
+    "logoimg" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/red%20bull.jpg",
+    "player1img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/tsunoda.jpg.img.1920.medium.jpg/1708344128383.jpg",
+    "player2img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/ricciardo.jpg.img.1920.medium.jpg/1708344126609.jpg",
+    "slug" : "RB",
+    "player1" : "Yuki Tsunoda",
+    "player2" : "Daniel Ricciardo",
+    "finish" : "1 (x2)",
+    "positions" : "1",
+    "laps" : "3"
+}

@@ -1,0 +1,19 @@
+{
+    "team" : "Red Bull Racing",
+    "base" : "Milton Keynes, United Kingdom",
+    "chief" : "Christian Horner",
+    "tchief" : "Pierre Waché",
+    "chassis" : "RB20",
+    "power" : "Honda RBPT",
+    "entry" : "1997",
+    "champions" : "6",
+    "logoimg" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/red%20bull.jpg",
+    "player1img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/verstappen.jpg.img.1920.medium.jpg/1708344264039.jpg",
+    "player2img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/perez.jpg.img.1920.medium.jpg/1708344497222.jpg",
+    "slug" : "RedBull",
+    "player1" : "Max Verstappen",
+    "player2" : "Sergio Perez",
+    "finish" : "1(x115)",
+    "positions" : "98",
+    "laps" : "96"
+}

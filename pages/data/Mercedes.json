@@ -1,0 +1,19 @@
+{
+    "team" : "Mercedes-AMG PETRONAS F1 Team",
+    "base" : "Brackley, United Kingdom",
+    "chief" : "Toto Wolff",
+    "tchief" : "James Allison",
+    "chassis" : "W15",
+    "power" : "Mercedes",
+    "entry" : "1990",
+    "champions" : "8",
+    "logoimg" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/red%20bull.jpg",
+    "player1img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/hamilton.jpg.img.1920.medium.jpg/1708362076344.jpg",
+    "player2img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/russell.jpg.img.1920.medium.jpg/1708362100444.jpg",
+    "slug" : "Mercedes",
+    "player1" : "Lewis Hamilton",
+    "player2" : "George Russell",
+    "finish" : "1 (x116)",
+    "positions" : "129",
+    "laps" : "96"
+}

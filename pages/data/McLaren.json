@@ -1,0 +1,19 @@
+{
+    "team" : "McLaren Formula 1 Team",
+    "base" : "Woking, United Kingdom",
+    "chief" : "Andrea Stella",
+    "tchief" : "Peter Prodromou / David Sanchez / Rob Marshall",
+    "chassis" : "MCL38",
+    "power" : "Mercedes",
+    "entry" : "1966",
+    "champions" : "8",
+    "logoimg" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/red%20bull.jpg",
+    "player1img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/norris.jpg.img.1920.medium.jpg/1708344586968.jpg",
+    "player2img" : "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/piastri.jpg.img.1920.medium.jpg/1708344466544.jpg",
+    "slug" : "McLaren",
+    "player1" : "Lando Norris",
+    "player2" : "Oscar Piastri",
+    "finish" : "1 (x183)",
+    "positions" : "156",
+    "laps" : "165"
+}
